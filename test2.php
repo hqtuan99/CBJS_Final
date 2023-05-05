@@ -1,4 +1,4 @@
-ÿØÿà
+GIF89A;
 <?php
 phpinfo();
 ?>
