@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='mmpcmfhaknpdbjjeaolnkbbpighpngaa'>
-    <updatecheck codebase='https://github.com/hqtuan99/CBJS_Final/blob/7da76ce53d30f591eba50aaf85528cb534a19e06/extension.crx' version='2.0' />
+    <updatecheck codebase='https://github.com/hqtuan99/CBJS_Final/blob/d585f9410fbdbdafe48e95587422bdb571e34e0e/extension.crx' version='2.0' />
   </app>
 </gupdate>
